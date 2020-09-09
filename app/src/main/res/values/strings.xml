@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NetflixTraining</string>
+    <string name="star_ic_description">Classification Menu</string>
+    <string name="message_ic_description">Message Menu</string>
+    <string name="volume_ic_description">Volume Menu</string>
+    <string name="file_ic_description">File Menu</string>
 </resources>
